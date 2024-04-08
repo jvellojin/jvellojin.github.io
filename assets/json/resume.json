@@ -24,13 +24,13 @@
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
+      "name": "GIMNAP, Departamento de Matemática, Universidad del Bío-Bío",
+      "position": "Postdoctoral Researcher",
       "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "startDate": "2022-01-01",
+      "endDate": "2026-12-31",
+      "summary": "Numerical implementation of elastic and solid vibrations models. Finite element of fluid-structure interactions and viscoelastic slender structures.",
+      "highlights": ["Eigenvalue problems, Non-linear PDE's, coupled problems, Finite Elements, Virtual Elements, Scientific Computing"]
     }
   ],
   "volunteer": [
