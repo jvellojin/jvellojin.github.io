@@ -9,7 +9,8 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>GIMNAP, Departamento de Matemática</p>
+    <p>GIMNAP</p>
+    <p>Departamento de Matemática</p>
     <p>Avenida Collao 1202</p>
     <p>Concepción, Chile</p>
 
