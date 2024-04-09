@@ -6,32 +6,54 @@
     "email": "jvellojin@ubiobio.cl",
     "phone": "N/A",
     "url": "https://jvellojin.github.io",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "summary": "PhD in mathematics with solid background in numerical analysis and scientific computing.",
     "location": {
       "address": "Avenida Collao 1202",
       "postalCode": "Casilla 5C",
       "city": "Concepción",
       "countryCode": "Chile",
       "region": "Concepción"
-    },
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
-      }
-    ]
+    }
   },
   "work": [
     {
       "name": "GIMNAP, Departamento de Matemática, Universidad del Bío-Bío",
       "position": "Postdoctoral Researcher",
-      "url": "https://example.com",
+      "url": "http://ciencias.ubiobio.cl/gimnap/",
       "startDate": "2022-01-01",
-      "endDate": "2026-12-31",
-      "summary": "Numerical implementation of elastic and solid vibrations models. Finite element of fluid-structure interactions and viscoelastic slender structures.",
+      "endDate": "",
+      "summary": "Numerical implementation of vibrations problems. Finite element analysis of fluid-structure interactions, non-linear coupled problems and viscoelastic slender structures.",
       "highlights": ["Eigenvalue problems, Non-linear PDE's, coupled problems, Finite Elements, Virtual Elements, Scientific Computing"]
+    },
+    {
+      "name": "GIMNAP, Departamento de Matemática, Universidad del Bío-Bío",
+      "position": "Lecturer",
+      "url": "http://ciencias.ubiobio.cl/gimnap/",
+      "startDate": "2022-01-01",
+      "endDate": "2022-07-30",
+      "summary": "Teaching of vector and integral calculus",
+      "highlights": ["Cálculo Multivariable (220160): March 14, 2022 - August 14, 2022",
+                    "Cálculo Integral (220146): March 14, 2022 - August 14, 2022."]
+    },
+    {
+      "name": "    Departamento de Matemática, Universidad Técnica Federico Santa María",
+      "position": "Lecturer",
+      "url": "http://matematica.usm.cl/departamento/",
+      "startDate": "2016-03-01",
+      "endDate": "",
+      "summary": "Teaching of pre-calculus, differential and integral calculus, and numerical analysis",
+      "highlights": ["MAT021, Complemento: March 7, 2016 - July 16, 2016.",
+                    "MAT022, Complemento: August 2, 2016 - December 9, 2016.",
+                    "MAT274, Análisis Numérico II: April 1, 2020 - August 14, 2020.",
+                    "MAT270, Análisis Numérico: August 31, 2020 - January 15, 2020.",
+                    "MAT021, Complemento: April 6, 2021 - August 4, 2021.",
+                    "MAT270, Análisis Numérico: April 6, 2021 - August 4, 2021.",
+                    "MAT274, Análisis Numérico II: April 6, 2021 - August 4, 2021.",
+                    "MAT270, Análisis Numérico: August 30, 2021 - January 20, 2022.",
+                    "MATE26, Cálculo Integral: March 07, 2022 - June 13, 2022.",
+                    "MATE11, Precálculo: March 11, 2024 - July 11, 2024."]
     }
+
   ],
   "volunteer": [
     {
