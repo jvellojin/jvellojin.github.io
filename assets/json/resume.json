@@ -20,6 +20,7 @@
       "name": "GIMNAP, Departamento de Matemática, Universidad del Bío-Bío, Concepción, Chile",
       "position": "Postdoctoral Researcher",
       "url": "http://ciencias.ubiobio.cl/gimnap/#",
+      "location": "Concepción, Chile",
       "startDate": "2022-03-02",
       "endDate": "",
       "summary": "Numerical implementation of eigenvalue problems, non-linear PDE's, coupled problems, finite elements, virtual elements.",
@@ -85,45 +86,46 @@
       "summary": "Math and statistics teacher in 6,7 and 8 grade."
     }
   ],
-  "volunteer": [
-    {
-      "organization": "People's Climate March",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
-    }
-  ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
+      "institution": "Universidad Técnica Federico Santa María, Valparaíso, Chile",
+      "location": "Valparaíso, Chile",
+      "url": "http://matematica.usm.cl/postgrado/doctorado/",
+      "area": "Applied Mathematics",
       "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
-    }
-  ],
-  "awards": [
+      "startDate": "2015-08-04",
+      "endDate": "2020-05-01",
+      "score": "7",
+      "courses": ["Numerical analysis of PDE's", "Finite elements", "Viscoelastic slender structures"]
+    },
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "institution": "Universidad del Norte, Barranquilla, Colombia",
+      "location": "Barranquilla, Colombia",
+      "url": "https://www.uninorte.edu.co/web/maestria-en-matematicas",
+      "area": "Applied Mathematics",
+      "studyType": "Master",
+      "startDate": "2011-08-01",
+      "endDate": "2015-04-01",
+      "score": "5",
+      "courses": ["Numerical analysis of PDE's","Finite elements", "Nitsche Technique", "Domain Decomposition methods"]
+    },
+    {
+      "institution": "Universidad de Cartagena, Cartagena, Colombia",
+      "location": "Cartagena, Colombia",
+      "url": "https://www.unicartagena.edu.co/estudia-con-nosotros/programa-matematicas",
+      "area": "Mathematics",
+      "studyType": "Undergraduate",
+      "startDate": "2005-01-01",
+      "endDate": "2011-07-01",
+      "score": "5",
+      "courses": ["Algebra"]
     }
   ],
   "certificates": [
     {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
+      "name": "Escuela de control y optimización ECOPT",
+      "date": "2015-12-08",
+      "issuer": "Universidad Técnica Federico Santa María",
       "icon": "fa-solid fa-location-dot"
     },
     {
