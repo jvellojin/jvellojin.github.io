@@ -17,8 +17,27 @@
   },
   "work": [
     {
-      "name": "    Departamento de Matemática, Universidad Técnica Federico Santa María",
-      "position": "Lecturer",
+      "name": "GIMNAP, Departamento de Matemática, Universidad del Bío-Bío",
+      "position": "Postdoctoral Researcher",
+      "url": "http://ciencias.ubiobio.cl/gimnap/",
+      "startDate": "2022-01-01",
+      "endDate": "",
+      "summary": "Numerical implementation of vibrations problems. Finite element analysis of fluid-structure interactions, non-linear coupled problems and viscoelastic slender structures.",
+      "highlights": ["Eigenvalue problems, Non-linear PDE's, coupled problems, Finite Elements, Virtual Elements, Scientific Computing"]
+    },
+    {
+      "name": "GIMNAP, Departamento de Matemática, Universidad del Bío-Bío",
+      "position": "   Lecturer",
+      "url": "http://ciencias.ubiobio.cl/gimnap/",
+      "startDate": "2022-01-01",
+      "endDate": "2022-07-30",
+      "summary": "Teaching of vector and integral calculus",
+      "highlights": ["Cálculo Multivariable (220160): March 14, 2022 - August 14, 2022",
+                    "Cálculo Integral (220146): March 14, 2022 - August 14, 2022."]
+    },
+    {
+      "name": "Departamento de Matemática, Universidad Técnica Federico Santa María",
+      "position": "    Lecturer",
       "url": "http://matematica.usm.cl/departamento/",
       "startDate": "2016-03-01",
       "endDate": "",
@@ -36,19 +55,10 @@
     },
     {
       "name": "GIMNAP, Departamento de Matemática, Universidad del Bío-Bío",
-      "position": "Postdoctoral Researcher",
+      "position": "   Lecturer",
       "url": "http://ciencias.ubiobio.cl/gimnap/",
       "startDate": "2022-01-01",
-      "endDate": "",
-      "summary": "Numerical implementation of vibrations problems. Finite element analysis of fluid-structure interactions, non-linear coupled problems and viscoelastic slender structures.",
-      "highlights": ["Eigenvalue problems, Non-linear PDE's, coupled problems, Finite Elements, Virtual Elements, Scientific Computing"]
-    },
-    {
-      "name": "GIMNAP, Departamento de Matemática, Universidad del Bío-Bío",
-      "position": "Lecturer",
-      "url": "http://ciencias.ubiobio.cl/gimnap/",
-      "startDate": "2024-01-01",
-      "endDate": "2024-07-30",
+      "endDate": "2022-07-30",
       "summary": "Teaching of vector and integral calculus",
       "highlights": ["Cálculo Multivariable (220160): March 14, 2022 - August 14, 2022",
                     "Cálculo Integral (220146): March 14, 2022 - August 14, 2022."]
