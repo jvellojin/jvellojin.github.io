@@ -17,51 +17,72 @@
   },
   "work": [
     {
-      "name": "GIMNAP, Departamento de Matemática, Universidad del Bío-Bío",
+      "name": "GIMNAP, Departamento de Matemática, Universidad del Bío-Bío, Concepción, Chile",
       "position": "Postdoctoral Researcher",
-      "url": "http://ciencias.ubiobio.cl/gimnap/",
-      "startDate": "2022-01-01",
+      "url": "http://ciencias.ubiobio.cl/gimnap/#",
+      "startDate": "2022-03-02",
       "endDate": "",
-      "summary": "Numerical implementation of vibrations problems. Finite element analysis of fluid-structure interactions, non-linear coupled problems and viscoelastic slender structures.",
-      "highlights": ["Eigenvalue problems, Non-linear PDE's, coupled problems, Finite Elements, Virtual Elements, Scientific Computing"]
+      "summary": "Numerical implementation of eigenvalue problems, non-linear PDE's, coupled problems, finite elements, virtual elements.",
+      "highlights": ["Project Anillo ACT210087 (2022-2023)", "FONDECYT POSTDOCTORADO 3230302 (2023-2026)"]
     },
     {
-      "name": "GIMNAP, Departamento de Matemática, Universidad del Bío-Bío",
-      "position": "   Lecturer",
-      "url": "http://ciencias.ubiobio.cl/gimnap/",
-      "startDate": "2022-01-01",
-      "endDate": "2022-07-30",
-      "summary": "Teaching of vector and integral calculus",
-      "highlights": ["Cálculo Multivariable (220160): March 14, 2022 - August 14, 2022",
-                    "Cálculo Integral (220146): March 14, 2022 - August 14, 2022."]
-    },
-    {
-      "name": "Departamento de Matemática, Universidad Técnica Federico Santa María",
+      "name": "Departamento de Matemática, Universidad Técnica Federico Santa María, Valparaíso, Chile",
       "position": "    Lecturer",
       "url": "http://matematica.usm.cl/departamento/",
       "startDate": "2016-03-01",
       "endDate": "",
       "summary": "Teaching of pre-calculus, differential and integral calculus, and numerical analysis",
-      "highlights": ["MAT021, Complemento: March 7, 2016 - July 16, 2016.",
-                    "MAT022, Complemento: August 2, 2016 - December 9, 2016.",
-                    "MAT274, Análisis Numérico II: April 1, 2020 - August 14, 2020.",
-                    "MAT270, Análisis Numérico: August 31, 2020 - January 15, 2020.",
-                    "MAT021, Complemento: April 6, 2021 - August 4, 2021.",
-                    "MAT270, Análisis Numérico: April 6, 2021 - August 4, 2021.",
-                    "MAT274, Análisis Numérico II: April 6, 2021 - August 4, 2021.",
-                    "MAT270, Análisis Numérico: August 30, 2021 - January 20, 2022.",
-                    "MATE26, Cálculo Integral: March 07, 2022 - June 13, 2022.",
-                    "MATE11, Precálculo: March 11, 2024 - July 11, 2024."]
+      "highlights": ["MAT021, Complemento: March 7, 2016 - July 16, 2016",
+                    "MAT022, Complemento: August 2, 2016 - December 9, 2016",
+                    "MAT274, Análisis Numérico II: April 1, 2020 - August 14, 2020",
+                    "MAT270, Análisis Numérico: August 31, 2020 - January 15, 2020",
+                    "MAT021, Complemento: April 6, 2021 - August 4, 2021",
+                    "MAT270, Análisis Numérico: April 6, 2021 - August 4, 2021",
+                    "MAT274, Análisis Numérico II: April 6, 2021 - August 4, 2021",
+                    "MAT270, Análisis Numérico: August 30, 2021 - January 20, 2022",
+                    "MATE26, Cálculo Integral: March 07, 2022 - June 13, 2022",
+                    "MATE11, Precálculo: March 11, 2024 - July 11, 2024"]
     },
     {
-      "name": "GIMNAP, Departamento de Matemática, Universidad del Bío-Bío",
-      "position": "   Lecturer",
+      "name": "GIMNAP, Departamento de Matemática, Universidad del Bío-Bío, Concepción, Chile",
+      "position": "Lecturer",
       "url": "http://ciencias.ubiobio.cl/gimnap/",
-      "startDate": "2022-01-01",
+      "startDate": "2022-03-01",
       "endDate": "2022-07-30",
       "summary": "Teaching of vector and integral calculus",
       "highlights": ["Cálculo Multivariable (220160): March 14, 2022 - August 14, 2022",
                     "Cálculo Integral (220146): March 14, 2022 - August 14, 2022."]
+    },
+    {
+      "name": "Fundación Universitaria Colombo Internacional-Unicolombo, Cartagena, Colombia",
+      "position": "   Lecturer",
+      "url": "https://unicolombo.edu.co",
+      "startDate": "2014-08-07",
+      "endDate": "2015-06-12",
+      "summary": "Teaching of linear algebra, together with differential, vector and integral calculus",
+      "highlights": [
+        "Differential Calculus: August 4, 2014 - November 29, 2014",
+        "Linear Algebra: August 4, 2014 - November 29, 2014",
+        " Differential Calculus: February 2, 2015 - June 12, 2015",
+        " Integral Calculus : February 2, 2015 - June 12, 2015",
+        " Vector Calculus: February 2, 2015 - June 12, 2015"
+      ]
+    },
+    {
+      "name": "Colegio Británico de Cartagena (IB School), Cartagena, Colombia",
+      "position": "Math Teacher",
+      "url": "https://www.colbritanico.edu.co/es",
+      "startDate": "2012-01-09",
+      "endDate": "2014-11-07",
+      "summary": "Math teacher at 7,8 and 9 grade. Advanced Math in 10 grade (Cambridge A-levels Math)"
+    },
+    {
+      "name": "Colegio La Nueva Esperanza, Turbaco, Bolivar, Colombia",
+      "position": "Math Teacher",
+      "url": "https://www.lanuevaesperanza.edu.co/es",
+      "startDate": "2011-01-25",
+      "endDate": "2011-11-30",
+      "summary": "Math and statistics teacher in 6,7 and 8 grade."
     }
   ],
   "volunteer": [
