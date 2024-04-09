@@ -16,8 +16,8 @@ To give your project a background in the portfolio page, just add the img tag to
 
     ---
     layout: page
-    title: project
-    description: a project with a background image
+    title: Dsalt Anillo ACT210087
+    description: Anillo of computational mathematics for desalination processes
     img: /assets/img/12.jpg
     ---
 
