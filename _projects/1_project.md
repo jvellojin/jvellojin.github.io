@@ -1,81 +1,73 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
-img: assets/img/12.jpg
+title: Dsalt Anillo ACT210087
+description: Computational mathematics for desalination processes 
+img: assets/img/Dsalt_project.jpeg
 importance: 1
 category: work
 related_publications: true
 ---
+The main goal of the project is to develop new computational algorithms to simulate seawater desalination processes. These advancements aim to provide technology developers with reliable simulations that support informed decision-making at a reduced cost.
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+[//]: # (Every project has a beautiful feature showcase page.)
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+[//]: # (It's easy to include images in a flexible 3-column grid format.)
 
-    ---
-    layout: page
-    title: Dsalt Anillo ACT210087
-    description: Anillo of computational mathematics for desalination processes
-    img: /assets/img/12.jpg
-    ---
+[//]: # (Make your photos 1/3, 2/3, or full width.)
 
+[//]: # ()
+[//]: # (To give your project a background in the portfolio page, just add the img tag to the front matter like so:)
+
+[//]: # ()
+[//]: # (    ---)
+
+[//]: # (    layout: page)
+
+[//]: # (    title: Dsalt Anillo ACT210087)
+
+[//]: # (    description: Anillo of computational mathematics for desalination processes)
+
+[//]: # (    img: /assets/img/12.jpg)
+
+[//]: # (    ---)
+
+
+As postdoctoral researcher during 2022 in the Anillo ACT210087 project, I focused on numerical methods with application on desalination processes. Water desalination is  a problem often mentioned in the scientific community due to the increasing scarcity of available drinking water. A first approach, commonly used for the modelling of reverse-osmosis system in water filtration is to propose a coupled Navier-Stokes Diffusion model, where the Darcy's law provides a relation between the permeability of the membrane and the amount of minerals in the water.
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/flow-transport_project1.jpeg" title="Velocity and concentration" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
+    Velocity streamlines (top panels) and concentration profiles (bottom panels) around the spacer in a cavity-type configuration.
 </div>
 
-You can also put regular text between your rows of images, even citations {% cite einstein1950meaning %}.
-Say you wanted to write a bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+The project allowed me to do a research stay with Dr. Ricardo Ruiz-Baier at Monash University. I had the opportunity to study new software for solving partial differential equations. Specifically, I learned to use the Gridap software. This software has the capabilites of using the skeleton of the mesh and is specially useful when implementing Cut Finite element methods. Additionally, we investigated the use of a Lagrange multiplier to enforce specific conditions. However, particular attention is required to ensure accurate trace estimates for the analysis. As future research, we aim to explore the use of H(div)-conforming methods combined with a posteriori analysis to enhance information retrieval along the membrane. Moreover, poromechanics is being considered to model a coupled fluid--porous membrane--transport model.
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
+[//]: # (<div class="row">)
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
+[//]: # (    <div class="col-sm mt-3 mt-md-0">)
 
-{% raw %}
+[//]: # (        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %})
 
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
+[//]: # (    </div>)
 
-{% endraw %}
+[//]: # (    <div class="col-sm mt-3 mt-md-0">)
+
+[//]: # (        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %})
+
+[//]: # (    </div>)
+
+[//]: # (    <div class="col-sm mt-3 mt-md-0">)
+
+[//]: # (        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %})
+
+[//]: # (    </div>)
+
+[//]: # (</div>)
+
+[//]: # (<div class="caption">)
+
+[//]: # (    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.)
+
+[//]: # (</div>)
