@@ -1,6 +1,6 @@
 ---
 layout: page
-title: { Dsalt Anillo ACT210087 (2022-2023) }
+title: Dsalt Anillo {{ACT210087}} (2022-2023)
 description: Computational mathematics for desalination processes 
 img: assets/img/Dsalt_project.jpeg
 importance: 1
