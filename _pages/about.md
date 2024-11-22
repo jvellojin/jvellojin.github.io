@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: #<a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
@@ -11,12 +11,13 @@ profile:
   more_info: >
     <p>GIMNAP</p>
     <p>Departamento de Matemática</p>
+    <p>Universidad del Bío-Bío</p>
     <p>Avenida Collao 1202</p>
     <p>Concepción, Chile</p>
 
-news: true # includes a list of news items
-latest_posts: true # includes a list of the newest posts
-selected_papers: true # includes a list of papers marked as "selected={true}"
+news: false # includes a list of news items
+latest_posts: false # includes a list of the newest posts
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
@@ -27,10 +28,11 @@ Norte](https://www.uninorte.edu.co), Barranquilla, Colombia. I got my phD throug
 a consortium of Chilean universities: [Universidad Técnica Federico Santa María](https://usm.cl), [Pontificia 
 Universidad Católica de Valparaíso](https://www.pucv.cl) and [Universidad de Valparaíso](https://uv.cl).
 
-I am currently a postdoctoral fellow at the Universidad del Bío-Bío through ANID postdoctoral project 3230302 under 
+I am currently a postdoctoral fellow at [Universidad del Bío-Bío](https://www.ubiobio.cl/w/) through ANID postdoctoral project 3230302 under 
 the sponsorship of my colleague and friend [Dr. David Mora](http://ciencias.ubiobio.cl/dmora/). My research focuses on the numerical solution of partial 
 differential equations, mixed formulations, and locking-free 
 methods for slender structures, with applications in water desalination, elasticity problems, fluid-flow problems, 
 coupled problems, and eigenvalue problems.
 
-In my free time I enjoy playing chess, learning new programming languages and cooking. I enjoy Chilean food very much and I have learned to make fusion meals where I mix the best of Chile and Colombia.
+In my free time I enjoy watching Youtube science channels, playing chess, learning new programming languages and 
+cooking. I enjoy Chilean food very much and I have learned to make fusion meals where I mix the best of Chile and Colombia.
