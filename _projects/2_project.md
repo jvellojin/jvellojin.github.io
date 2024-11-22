@@ -1,7 +1,7 @@
 ---
 layout: page
-title: ANID postdoctoral project 3230302 (2023-2026)
-description: Computational mathematics for desalination processes 
+title: ANID postdoc 3230302 (2023-2026)
+description: Mathematical and computational analysis of solid and fluid mechanics
 img: assets/img/ANID_postdoc_main_img.jpeg
 importance: 1
 category: work
@@ -21,10 +21,10 @@ Numerical solutions to real problems have always interested mathematicians. Prom
     </div>
 </div>
 <div class="caption">
-    Samples images of several simulations such as the elastic deformation in a Fluid-Structure eigenvalue problem (left), Stokes-Brinkman eigenvalue problem (middle) and refined meshes on a DG scheme for elasticity (right).
+    Samples images of several simulations such as the elastic deformation in a Fluid-Structure eigenvalue problem (left), Stokes-Brinkman eigenvalue problem (middle) and adaptive refined meshes on a DG scheme for elasticity (right).
 </div>
 
 In most cases, these phenomena are associated with partial differential equations, where finite differences method, finite elements method or virtual elements methods are used to solve the equations numerically. Considering this, the present project aims to analyze numerically and mathematically problems in solid and fluid mechanics, including eigenvalue problems in structures, fluids and fluid-structure coupling, or  induced stresses in structures with memory and viscoelastic fluids. All this, taking into account the existing variability in the types of materials and geometrical conditions. The numerical analysis of these phenomena will be approached using the finite element method and its possible extension to the virtual element method, where the comparison of the advantages and disadvantages of each of them according to the problem under study will be one of the main goals.
 
-At this moment, as a product of this research, different results have been obtained in eigenvalue problems in finite elements {% cite lepe2024Oseenfinite LEPE2023114798 %}. We are currently developing loading models in fluid-transport couplings, virtual elements for fluid problems with slip conditions and eigenvalue problems with virtual elements.
+At this moment, as a product of this research, different results have been obtained in eigenvalue problems in finite elements {% cite LEPE2024116959 lepe2024finite LEPE2024115700 LEPE2023114798 refId0 lepe_calcolo_stokes  %}. We are currently developing loading models in fluid-transport couplings, virtual elements for fluid problems with slip conditions and eigenvalue problems with virtual elements.
 
