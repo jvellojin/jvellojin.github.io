@@ -28,7 +28,7 @@ Norte](https://www.uninorte.edu.co), Barranquilla, Colombia. I got my phD throug
 a consortium of Chilean universities: [Universidad Técnica Federico Santa María](https://usm.cl), [Pontificia 
 Universidad Católica de Valparaíso](https://www.pucv.cl) and [Universidad de Valparaíso](https://uv.cl).
 
-I am currently a postdoctoral fellow at [Universidad del Bío-Bío](https://www.ubiobio.cl/w/) through ANID postdoctoral project 3230302 under 
+I am currently a postdoctoral fellow at [Universidad del Bío-Bío](https://www.ubiobio.cl) through ANID postdoctoral project 3230302 under 
 the sponsorship of my colleague and friend [Dr. David Mora](http://ciencias.ubiobio.cl/dmora/). My research focuses on the numerical solution of partial 
 differential equations, mixed formulations, and locking-free 
 methods for slender structures, with applications in water desalination, elasticity problems, fluid-flow problems, 
