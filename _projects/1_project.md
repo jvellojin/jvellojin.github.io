@@ -32,7 +32,7 @@ The main goal of the project is to develop new computational algorithms to simul
 [//]: # (    ---)
 
 
-As postdoctoral researcher during 2022 in the Anillo ACT210087 project, I focused on numerical methods with application on desalination processes. Water desalination is  a problem often mentioned in the scientific community due to the increasing scarcity of available drinking water. A first approach, commonly used for the modelling of reverse-osmosis system in water filtration is to propose a coupled Navier-Stokes Diffusion model, where the Darcy's law provides a relation between the permeability of the membrane and the amount of minerals in the water.
+As postdoctoral researcher during 2022 in the Anillo ACT210087 project, I focused on numerical methods with application on desalination processes. Water desalination is  a problem often mentioned in the scientific community due to the increasing scarcity of available drinking water. A first approach, commonly used for the modelling of reverse-osmosis system in water filtration is to propose a coupled Navier-Stokes Diffusion model, where the Darcy's law provides a relation between the permeability of the membrane and the amount of minerals in the water. One of the papers resulting from this research is {% cite https://doi.org/10.1002/fld.5252 %}, where we used Nitsche's method for imposing the mineral-dependent permeability condition in a channel with saltwater flow. 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/flow-transport_project1.jpeg" title="Velocity and concentration" class="img-fluid rounded z-depth-1" %}
