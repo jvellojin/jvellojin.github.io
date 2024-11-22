@@ -7,7 +7,7 @@ nav: true
 nav_order: 6
 ---
 
-# About my teaching skills 
+# **About my teaching skills** 
 
 Mathematics is one of the sciences whose relevance is undeniable, whether it is seen as an intellectual work or if we look at its many applications to everyday life. Precisely, the research I do in mathematics tries to understand how the world works and to respond to the needs of today's society. I believe that it is necessary to create opportunities to bring young people and adults closer to scientific knowledge, and numerical analysis is an area with potential for this. The above is related to the constant reflection that as a teacher I have made in recent years on the teaching and learning of mathematics. From what I have observed in some school institutions, mathematics is taught from a traditional perspective which has caused fear, rejection and anxiety of students towards mathematics. This happens in schools as well as in undergraduate and graduate courses. Going deeper into these ideas, I present below the bases on which I promote the learning processes of mathematics in my teaching practices: 
 
