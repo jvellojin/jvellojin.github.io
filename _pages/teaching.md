@@ -1,10 +1,10 @@
 ---
 layout: page
-permalink: /teaching/
 title: Teaching
+permalink: /teaching/
 description: My teaching statement. Future updates will include courses and material.
 nav: true
-nav_order: 6
+nav_order: 5
 ---
 
 # **About my teaching skills** 
@@ -25,7 +25,7 @@ The diversity of students present in the classroom requires that basic foundatio
 
 In addition to the above, the development of these mathematical skills is achieved through the inclusion of specially designed tasks in the teaching process. Solving problems with the tools given in class will allow students to share their mathematical experience with their classmates and with me. I consider it important that students understand their individual and group role in the construction of mathematical knowledge, so the presentation and discussion of the results of their homework and research is a constant in my classes. 
 
-## **My contribution to the mathematics department**
+## **My contribution as a mathematics teacher**
 With my teaching experience over the years, I have taught different courses, from basic mathematics in sixth grade in high schools, to advanced numerical analysis to undergraduate students. This has allowed me to learn how to adapt to different teaching contexts, which makes it easier for me to design classes according to the level of complexity of the knowledge and the goals of the course. In all cases, I look for students to question the way they develop mathematical activity, particularly the strategies they use to solve different types of tasks and how they communicate their mathematical ideas in a rigorous and precise form.  
 
 With my knowledge in numerical analysis, numerical methods and numerical algebra, I can contribute to 
