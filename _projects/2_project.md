@@ -11,13 +11,16 @@ Numerical solutions to real problems have always interested mathematicians. Prom
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/ANID_postdoc_img1.jpg" title="Deformed elastic structure" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/ANID_postdoc_img1.jpeg" title="Deformed elastic 
+structure" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/ANID_postdoc_img2.jpg" title="Streamlines of velocity in a 3D-lshaped domain" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/ANID_postdoc_img2.jpeg" title="Streamlines of 
+velocity in a 3D-lshaped domain" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/ANID_postdoc_img3.jpg" title="Refined meshes in a 3D-lshaped domain" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/ANID_postdoc_img3.jpeg" title="Refined meshes in a 
+3D-lshaped domain" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
