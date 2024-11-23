@@ -296,7 +296,8 @@ scholar:
   order: descending
   type_aliases: { inproceedings: incollection }
   type_order: [ article, unpublished, incollection, report ]
-  type_names: { unpublished: working papers, report: technical reports, techreport: technical reports, article: journal articles, incollection: books & conferences }
+  type_names: { unpublished: Preprints, report: technical reports, techreport: technical reports, article: Journal
+    Articles,   incollection: books & conferences }
 
   # Note: if you have latex math in your bibtex, the latex filter
   # preprocessing may conflict with MathJAX if the latter is enabled.
