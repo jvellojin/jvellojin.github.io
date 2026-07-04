@@ -28,21 +28,35 @@
 4. **_config.yml** necesita el bloque `al_folio:` (api_version, tailwind,
    distill, features, compat) + `theme:` + lista de plugins nueva.
 
-## 2. Qué migra limpio (contenido site-owned)
+## 2. Contenido REAL vs. demo (hallazgo clave)
 
-Esto se copia tal cual desde tu repo actual al starter v1:
+La mayoría de lo que parece "contenido" es **demo del tema**, no tuyo. El
+payload real a migrar es pequeño y **compatible de formato con v1** (verificado:
+`_projects` y `papers.bib` usan el mismo esquema en v1).
 
-| Carpeta/archivo        | Contenido                                  |
-|------------------------|--------------------------------------------|
-| `_data/` (4)           | coauthors, cv, repositories, venues        |
-| `_bibliography/` (1)   | papers.bib                                  |
-| `_pages/` (9)          | about, cv, news, projects, publications, teaching, 404, dropdown, about_einstein |
-| `_posts/` (26)         | entradas del blog                          |
-| `_projects/` (2)       | proyectos                                  |
-| `_news/` (3)           | novedades                                  |
-| `assets/` (81)         | imágenes, pdf, css/js propios              |
-| `files/` (1)           | archivos varios                            |
-| Valores de `_config.yml` | nombre, `scholar_userid`, textos, social, etc. (los **valores**, no la estructura) |
+### Tuyo real → migrar (copia limpia)
+| Origen                         | Qué es                                             |
+|--------------------------------|----------------------------------------------------|
+| `_bibliography/papers.bib`     | **17 publicaciones reales** (Vellojin et al.)      |
+| `assets/img/` (reales)         | prof_pic, prof_pic_color, ANID_postdoc_*, Dsalt_project, flow-transport_* |
+| `_projects/1_project.md`       | Dsalt Anillo ACT210087 (2022-2023)                 |
+| `_projects/2_project.md`       | ANID postdoc 3230302 (2023-2026)                   |
+| `_pages/about.md` (`more_info`)| Contacto: GIMNAP, Depto. Matemática, UBB, Concepción |
+| `_config.yml` (valores)        | Nombre Jesus Vellojin, `scholar_userid: yxYU88oAAAAJ`, keywords |
+
+### Demo / placeholder → NO migrar (dejar el de v1 o rehacer)
+| Origen                   | Por qué se descarta                          |
+|--------------------------|----------------------------------------------|
+| `_data/cv.yml`           | Es Albert Einstein. Tu CV **nunca se llenó** — se rellena el esquema nuevo de v1 desde cero |
+| `_data/coauthors.yml`    | Adams, Podolsky, Rosen, Bach (demo)          |
+| `_data/venues.yml`       | AJP, PhysRev (demo)                          |
+| `_data/repositories.yml` | torvalds, bootstrap, jquery (demo)           |
+| `_posts/` (26)           | Posts de demostración del tema               |
+| `_news/` (3)             | announcement_1/2/3 (demo)                    |
+
+> **Consecuencia:** no hay conversión laboriosa de CV que hacer — la tabla que
+> preocupaba está en blanco (Einstein). Se llena el `cv:` de v1 cuando quieras,
+> apoyándote en tu `papers.bib` real.
 
 ## 3. Overrides: por qué la auditoría se corre con el gem
 
