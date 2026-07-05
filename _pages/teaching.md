@@ -11,16 +11,16 @@ nav_order: 6
 
 **Universidad Técnica Federico Santa María** — Santiago / Valparaíso, Chile (2016 – 2024)
 
-- MAT021, Complemento — Mar 2016 – Jul 2016
-- MAT022, Complemento — Aug 2016 – Dec 2016
-- MAT274, Análisis Numérico II — Apr 2020 – Aug 2020
-- MAT270, Análisis Numérico — Aug 2020 – Jan 2021
-- MAT021, Complemento — Apr 2021 – Aug 2021
-- MAT270, Análisis Numérico — Apr 2021 – Aug 2021
-- MAT274, Análisis Numérico II — Apr 2021 – Aug 2021
-- MAT270, Análisis Numérico — Aug 2021 – Jan 2022
-- MATE26, Cálculo Integral — Mar 2022 – Jun 2022
 - MATE11, Precálculo — Mar 2024 – Jul 2024
+- MATE26, Cálculo Integral — Mar 2022 – Jun 2022
+- MAT270, Análisis Numérico — Aug 2021 – Jan 2022
+- MAT274, Análisis Numérico II — Apr 2021 – Aug 2021
+- MAT270, Análisis Numérico — Apr 2021 – Aug 2021
+- MAT021, Complemento — Apr 2021 – Aug 2021
+- MAT270, Análisis Numérico — Aug 2020 – Jan 2021
+- MAT274, Análisis Numérico II — Apr 2020 – Aug 2020
+- MAT022, Complemento — Aug 2016 – Dec 2016
+- MAT021, Complemento — Mar 2016 – Jul 2016
 
 **Universidad del Bío-Bío** — Concepción, Chile (2022)
 
@@ -29,11 +29,11 @@ nav_order: 6
 
 **Fundación Universitaria Colombo Internacional (Unicolombo)** — Cartagena, Colombia (2014 – 2015)
 
-- Differential Calculus — Aug 2014 – Nov 2014
-- Linear Algebra — Aug 2014 – Nov 2014
-- Differential Calculus — Feb 2015 – Jun 2015
-- Integral Calculus — Feb 2015 – Jun 2015
 - Vector Calculus — Feb 2015 – Jun 2015
+- Integral Calculus — Feb 2015 – Jun 2015
+- Differential Calculus — Feb 2015 – Jun 2015
+- Linear Algebra — Aug 2014 – Nov 2014
+- Differential Calculus — Aug 2014 – Nov 2014
 
 Also served as advisor in the student stay and reinforcement program in mathematics, and as classroom-research referee for the Tecnología en Sistemas de Gestión de Calidad (Ingeniería Industrial) program.
 
