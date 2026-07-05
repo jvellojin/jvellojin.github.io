@@ -3,14 +3,14 @@
 
 #################################################################
 ######### PREPRINTS #############################################
-@unpublished{khan2023finiteelementanalysisnearly,
+@article{khan2023finiteelementanalysisnearly,
       abstract={In this paper we present a mathematical and numerical analysis of an eigenvalue problem associated to the elasticity-Stokes equations stated in two and three dimensions. Both problems are related through the Herrmann pressure. Employing the Babu\v ska--Brezzi theory, it is proved that the resulting continuous and discrete variational formulations are well-posed. In particular, the finite element method is based on general inf-sup stables pairs for the Stokes system, such that, Taylor--Hood finite elements. By using a general approximation theory for compact operators, we obtain optimal order error estimates for the eigenfunctions and a double order for the eigenvalues. Under mild assumptions, we have that these estimates hold with constants independent of the Lamé coefficient λ. In addition, we carry out the reliability and efficiency analysis of a residual-based a posteriori error estimator for the spectral problem. We report a series of numerical tests in order to assess the performance of the method and its behavior when the nearly incompressible case of elasticity is considered.},
       title={Finite element analysis of the nearly incompressible linear elasticity eigenvalue problem with variable coefficients},
       author={Arbaz Khan and Felipe Lepe and David Mora and Jesus Vellojin},
-      year={2023},
-      eprint={2312.10715},
-      archivePrefix={arXiv},
-      primaryClass={math.NA},
+      journal={Numerische Mathematik},
+      year={2026},
+      note={Accepted for publication},
+      arxiv={2312.10715},
       html={https://arxiv.org/abs/2312.10715},
 }
 
@@ -25,36 +25,42 @@
       html={https://arxiv.org/abs/2402.01451},
 }
 
-@unpublished{lepe2024mixedfiniteelementmethod,
+@article{lepe2024mixedfiniteelementmethod,
       abstract={In this paper, we introduce and analyze a mixed formulation for the Oseen eigenvalue problem by introducing the pseudostress tensor as a new unknown, allowing us to eliminate the fluid pressure. The well-posedness of the solution operator is established using a fixed-point argument. For the numerical analysis, we use the tensorial versions of Raviart-Thomas and Brezzi-Douglas-Marini elements to approximate the pseudostress, and piecewise polynomials for the velocity. Convergence and a priori error estimates are derived based on compact operator theory. We present a series of numerical tests in two and three dimensions to confirm the theoretical findings.},
       title={A Mixed finite element method for the velocity-pseudostress formulation of the Oseen eigenvalue problem},
       author={Felipe Lepe and Gonzalo Rivera and Jesus Vellojin},
-      year={2024},
-      eprint={2409.17314},
-      archivePrefix={arXiv},
-      primaryClass={math.NA},
+      journal={SIAM Journal on Scientific Computing},
+      volume={47},
+      number={6},
+      pages={A3356--A3382},
+      year={2025},
+      arxiv={2409.17314},
       html={https://arxiv.org/abs/2409.17314},
 }
 
-@unpublished{khan2024interiorpenaltydiscontinuousgalerkin,
+@article{khan2024interiorpenaltydiscontinuousgalerkin,
       abstract={This paper studies the family of interior penalty discontinuous Galerkin methods for solving the Herrmann formulation of the linear elasticity eigenvalue problem in heterogeneous media. By employing a weighted Lamé coefficient norm within the framework of non-compact operators theory, we prove convergence of both continuous and discrete eigenvalue problems as the mesh size approaches zero, independently of the Lamé constants. Additionally, we conduct an a posteriori analysis and propose a reliable and efficient estimator. The theoretical findings are supported by numerical experiments.},
       title={Interior penalty discontinuous Galerkin methods for the nearly incompressible elasticity eigenvalue problem with heterogeneous media},
       author={Arbaz Khan and Felipe Lepe and Jesus Vellojin},
-      year={2024},
-      eprint={2402.17711},
-      archivePrefix={arXiv},
-      primaryClass={math.NA},
+      journal={SIAM Journal on Scientific Computing},
+      volume={48},
+      number={2},
+      pages={A568--A599},
+      year={2026},
+      arxiv={2402.17711},
       html={https://arxiv.org/abs/2402.17711},
 }
 
-@unpublished{mora2024nitschestabilizedvirtualelement,
+@article{mora2024nitschestabilizedvirtualelement,
 abstract={In this paper, we formulate, analyse and implement the discrete formulation of the Brinkman problem with mixed boundary conditions, including slip boundary condition, using the Nitsche's technique for virtual element methods. The divergence conforming virtual element spaces for the velocity function and piecewise polynomials for pressure are approached for the discrete scheme. We derive a robust stability analysis of the Nitsche stabilized discrete scheme for this model problem. We establish an optimal and vigorous a priori error estimates of the discrete scheme with constants independent of the viscosity. Moreover, a set of numerical tests demonstrates the robustness with respect to the physical parameters and verifies the derived convergence results.},
       title={Nitsche stabilized Virtual element approximations for a Brinkman problem with mixed boundary conditions},
       author={David Mora and Jesus Vellojin and Nitesh Verma},
-      year={2024},
-      eprint={2406.07724},
-      archivePrefix={arXiv},
-      primaryClass={math.NA},
+      journal={ESAIM: Mathematical Modelling and Numerical Analysis},
+      volume={60},
+      number={1},
+      pages={411--444},
+      year={2026},
+      arxiv={2406.07724},
       html={https://arxiv.org/abs/2406.07724},
 }
 
@@ -248,3 +254,59 @@ abstract = {We propose and analyze a finite element method for the Oseen eigenva
 	volume = {60},
 	year = {2023},
 	bdsk-html-1 = {https://doi.org/10.1007/s10092-023-00548-y}}
+
+#################################################################
+######### ADDED FROM CV / ORCID #################################
+@article{anaya2026nitschebrinkman,
+  title={A Nitsche-based FEM with Grad-Div stabilization for the velocity-pressure formulation of the Brinkman problem with mixed boundary conditions on the pressure},
+  author={V. Anaya and Y. Capuñay and R. Caraballo and Jesus Vellojin},
+  journal={Computer Methods in Applied Mechanics and Engineering},
+  volume={456},
+  pages={118923},
+  year={2026},
+  publisher={Elsevier}
+}
+
+@article{lepe2026dgstokesbrinkman,
+  title={Discontinuous Galerkin approximation for a Stokes-Brinkman-type formulation of the eigenvalue problem in porous media},
+  author={Felipe Lepe and Gonzalo Rivera and Jesus Vellojin},
+  journal={Computer Methods in Applied Mechanics and Engineering},
+  volume={449},
+  number={Part B},
+  pages={118570},
+  year={2026},
+  publisher={Elsevier}
+}
+
+@article{lepe2026pseudostressstokesbrinkman,
+  title={Pseudostress-Based Velocity Formulation for the Stokes-Brinkman-Type Eigenvalue Problem: A Priori and a Posteriori Error Analysis},
+  author={Felipe Lepe and Gonzalo Rivera and Jesus Vellojin},
+  journal={Numerical Methods for Partial Differential Equations},
+  volume={42},
+  number={1},
+  pages={e70073},
+  year={2026},
+  publisher={Wiley}
+}
+
+@article{mora2026biotbrinkman,
+  title={A virtual element method for the Biot-Brinkman equations using Nitsche's technique},
+  author={David Mora and Jesus Vellojin and Nitesh Verma},
+  journal={Computer Methods in Applied Mechanics and Engineering},
+  volume={448},
+  number={Part B},
+  pages={118447},
+  year={2026},
+  publisher={Elsevier}
+}
+
+@article{lepe2025stokesbrinkmanporous,
+  title={A Stokes-Brinkman-type formulation for the eigenvalue problem in porous media},
+  author={Felipe Lepe and Gonzalo Rivera and Jesus Vellojin},
+  journal={Journal of Scientific Computing},
+  volume={104},
+  number={3},
+  pages={1--25},
+  year={2025},
+  publisher={Springer}
+}
