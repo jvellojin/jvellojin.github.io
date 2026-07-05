@@ -9,7 +9,7 @@ nav_order: 6
 
 ## University teaching
 
-**Universidad Técnica Federico Santa María** — Santiago / Valparaíso, Chile (2016 – 2024)
+**Universidad Técnica Federico Santa María** — Santiago / Valparaíso, Chile (2016 – present)
 
 - MAT000-B, Matemática — Mar 2026 – Jul 2026
 - MAT100-B, Fundamentos de Matemática — Mar 2026 – Jul 2026
