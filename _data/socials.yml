@@ -1,7 +1,6 @@
 # this file contains the social media links and usernames of the author
 # the socials will be displayed in the order they are defined here
 # for more information, please refer to the documentation of jekyll-socials plugin: https://github.com/george-gca/jekyll-socials
-cv_pdf: /assets/pdf/cv_7_english.pdf # path to your CV PDF file
 email: jesusvellojin@gmail.com # your email address
 orcid_id: 0000-0002-0152-491X # your ORCID ID
 scholar_userid: yxYU88oAAAAJ # your Google Scholar ID

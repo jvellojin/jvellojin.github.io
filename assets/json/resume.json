@@ -124,6 +124,20 @@
       "summary": "MATLAB programmer: codes to solve an optimal control problem in elasticity using the Nitsche technique."
     }
   ],
+  "skills": [
+    {
+      "name": "Basic",
+      "keywords": ["C", "C++", "HTML"]
+    },
+    {
+      "name": "Intermediate",
+      "keywords": ["Maple", "Bash", "Gmsh", "Freefem++", "Julia", "Gridap", "VEM++"]
+    },
+    {
+      "name": "Advanced",
+      "keywords": ["LaTeX", "Microsoft Windows", "MATLAB", "Linux", "Python", "Fenics", "Fenicsx", "DUNE"]
+    }
+  ],
   "languages": [
     {
       "language": "Spanish",
