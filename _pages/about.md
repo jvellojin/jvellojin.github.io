@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: Assistant Professor · Departamento de Ciencias, <a href='https://www.usm.cl'>Universidad Técnica Federico Santa María</a>, Valparaíso.
 
