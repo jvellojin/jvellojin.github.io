@@ -11,6 +11,8 @@ nav_order: 6
 
 **Universidad Técnica Federico Santa María** — Santiago / Valparaíso, Chile (2016 – 2024)
 
+- MAT000-B, Matemática — Mar 2026 – Jul 2026
+- MAT100-B, Fundamentos de Matemática — Mar 2026 – Jul 2026
 - MATE11, Precálculo — Mar 2024 – Jul 2024
 - MATE26, Cálculo Integral — Mar 2022 – Jun 2022
 - MAT270, Análisis Numérico — Aug 2021 – Jan 2022
