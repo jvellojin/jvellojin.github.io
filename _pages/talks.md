@@ -7,6 +7,10 @@ nav: true
 nav_order: 7
 ---
 
+**2026** — *A Virtual Element Method for the Biot-Brinkman Equations using Nitsche's Technique.* 2nd Latin American Congress on Industrial and Applied Mathematics (LACIAM 2026), Universidad Técnica Federico Santa María, Valparaíso, Chile.
+
+**2025** — *Interior penalty discontinuous Galerkin methods for the nearly incompressible elasticity eigenvalue problem with heterogeneous media.* Encuentro Anual de la Sociedad de Matemática de Chile (SOMACHI 2025), Vicuña, Chile.
+
 **2025** — *Some results on the enforcement of permeability conditions in water desalination problems.* DSALT 2025: Segundo Workshop sobre Métodos Computacionales para Procesos de Desalinización, Universidad de Concepción, Concepción, Chile.
 
 **2024** — *A divergence-free conforming discretization of a flow-transport coupling model with applications to reverse osmosis systems.* Coloquio de Matemáticas y Estadística, Universidad del Norte, Barranquilla, Colombia.
