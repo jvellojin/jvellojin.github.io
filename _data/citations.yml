@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-06'
+  last_updated: '2026-07-20'
 papers:
   yxYU88oAAAAJ:0EnyYjriUFMC:
     citations: 0
@@ -10,7 +10,7 @@ papers:
     title: Analysis of an abstract mixed formulation for viscoelastic problems
     year: '2021'
   yxYU88oAAAAJ:3fE2CSJIrl8C:
-    citations: 2
+    citations: 3
     title: A Stokes-Brinkman-type formulation for the eigenvalue problem in porous media
     year: '2025'
   yxYU88oAAAAJ:4TOpqqG69KYC:
@@ -30,7 +30,7 @@ papers:
     title: A mixed parameter formulation with applications to linear viscoelasticity
     year: '2020'
   yxYU88oAAAAJ:IjCSPb-OGe4C:
-    citations: 4
+    citations: 5
     title: A posteriori analysis for a mixed FEM discretization of the linear elasticity spectral problem
     year: '2022'
   yxYU88oAAAAJ:KlAtU1dfN6UC:
@@ -54,7 +54,7 @@ papers:
     title: Nitsche stabilized virtual element approximations for a Brinkman problem with mixed boundary conditions
     year: '2026'
   yxYU88oAAAAJ:Tyk-4Ss8FVUC:
-    citations: 3
+    citations: 4
     title: "Error estimates for a vorticity-based velocity\u2013stress formulation of the Stokes eigenvalue problem"
     year: '2023'
   yxYU88oAAAAJ:ULOm3_A8WrAC:
@@ -93,6 +93,10 @@ papers:
     citations: 1
     title: A Nitsche-based FEM with Grad-Div stabilization for the velocity-pressure formulation of the Brinkman problem with mixed boundary conditions on the pressure
     year: '2026'
+  yxYU88oAAAAJ:aqlVkmm33-oC:
+    citations: 0
+    title: A vorticity-based velocity-stress formulation for the Stokes-Brinkman eigenvalue problem
+    year: '2026'
   yxYU88oAAAAJ:d1gkVwhDpl0C:
     citations: 13
     title: "Modelling of thin viscoelastic shell structures under Reissner\u2013Mindlin kinematic assumption"
@@ -106,9 +110,13 @@ papers:
     title: A Mixed finite element method for the velocity-pseudostress formulation of the Oseen eigenvalue problem
     year: '2025'
   yxYU88oAAAAJ:qjMakFHDy7sC:
-    citations: 16
+    citations: 17
     title: Mixed methods for the velocity-pressure-pseudostress formulation of the Stokes eigenvalue problem
     year: '2022'
+  yxYU88oAAAAJ:qxL8FJ1GzNcC:
+    citations: 0
+    title: A locking free mixed FEM based on a pure pseudostress based formulation for the elasticity eigenproblem
+    year: '2026'
   yxYU88oAAAAJ:roLk4NBRz8UC:
     citations: 0
     title: Interior penalty discontinuous Galerkin methods for the nearly incompressible elasticity eigenvalue problem with heterogeneous media
