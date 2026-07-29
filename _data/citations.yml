@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-20'
+  last_updated: '2026-07-29'
 papers:
   yxYU88oAAAAJ:0EnyYjriUFMC:
     citations: 0
@@ -19,8 +19,8 @@ papers:
     year: '2026'
   yxYU88oAAAAJ:5nxA0vEk-isC:
     citations: 1
-    title: "Finite element analysis for the Navier-Lam\xE9 eigenvalue problem"
-    year: '2025'
+    title: Finite element analysis for the Navier-Lam\'e eigenvalue problem
+    year: '2022'
   yxYU88oAAAAJ:8k81kl-MbHgC:
     citations: 0
     title: Numerical analysis of a conforming finite element method for a reverse osmosis model
